@@ -34,7 +34,8 @@ _____________________________________________________
    D. Data distribution- numerical
    Below are the images from the jupyter notebook execution.
     
-   ![image](images/multiple_images.png)
+   ![image](images/histogram.png
+)
    I was able to copy these images from the VS Code jupyter interface.  there are three(3) dots to the right of the output cell that gives you the option of copy output.   I just copied the image over and it worked!
    
    ![image](https://github.com/JBtallgrass/datafun-04-jupyter/assets/106720990/6579ca24-53cb-44b9-8559-80635b777dd4)
