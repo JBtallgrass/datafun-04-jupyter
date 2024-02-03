@@ -38,11 +38,11 @@ _____________________________________________________
     
    E. Data distrobution- catagorical
     
-   ![image](images/histogram.png)
+   ![image](images/catagorical.png)
   
    F. Data Analysis
 
-   ![image](https://github.com/JBtallgrass/datafun-04-jupyter/assets/106720990/188fdcd9-4353-4cd8-93ac-52fe5031b0a4)
+   ![image](images/multiple_images.png)
 
     
    G. Storytelling- Data visualization
