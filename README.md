@@ -35,6 +35,8 @@ _____________________________________________________
    Below are the images from the jupyter notebook execution.
     
    ![image](images/histogram.png)
+
+   ![image](images/numerical.png)
     
    E. Data distrobution- catagorical
     
