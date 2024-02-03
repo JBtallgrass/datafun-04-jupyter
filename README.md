@@ -12,7 +12,7 @@ _____________________________________________________
 
 
 ### Deliverables 📦
-* ![github logo]() repositiory: datafun-04-jupyter
+* ![github logo](images/github-mark-white.png) repositiory: datafun-04-jupyter
 * 📰 Documentation: README.md
 * 📔 Notebook: jballard_eda.pynb
 
