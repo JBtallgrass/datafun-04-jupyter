@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 ______________________________________________________________
-Project name: datafun-04-jupyter :jupiter:
+Project name: datafun-04-jupyter
 ___________________________________________________________
 ## Overview
 ____________________________________________________________
@@ -12,7 +12,7 @@ _____________________________________________________
 
 
 ### Deliverables 📦
-* ![github logo]( repositiory: datafun-04-jupyter
+* ![github logo]() repositiory: datafun-04-jupyter
 * 📰 Documentation: README.md
 * 📔 Notebook: jballard_eda.pynb
 
