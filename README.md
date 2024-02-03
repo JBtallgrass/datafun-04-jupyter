@@ -36,17 +36,18 @@ _____________________________________________________
     A. Data Acquisition
     
     B. Data Inspection
-           sepal_length  sepal_width  petal_length  petal_width species
+    
+'sepal_length  sepal_width  petal_length  petal_width species
 0           5.1          3.5           1.4          0.2  setosa
 1           4.9          3.0           1.4          0.2  setosa
 2           4.7          3.2           1.3          0.2  setosa
 3           4.6          3.1           1.5          0.2  setosa
-4           5.0          3.6           1.4          0.2  setosa
+4           5.0          3.6           1.4          0.2  setosa'
   
    
     C. Descriptive analysis
 
-        sepal_length  sepal_width  petal_length  petal_width
+   sepal_length  sepal_width  petal_length  petal_width
 count    150.000000   150.000000    150.000000   150.000000
 mean       5.843333     3.057333      3.758000     1.199333
 std        0.828066     0.435866      1.765298     0.762238
