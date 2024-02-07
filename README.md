@@ -1,4 +1,4 @@
- # Exploratory Data Analysis
+ # Exploratory Data Analysis :rocket:
 ______________________________________________________________
 Project name: datafun-04-jupyter
 ___________________________________________________________
